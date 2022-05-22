@@ -1,4 +1,4 @@
-# test link: vue-x-counter.netlify.app
+# vue x app
 
 
 ## Project setup
