@@ -1,5 +1,4 @@
 <template>
-  <h1>Component 4</h1>
   <Counter />
 </template>
 

@@ -1,5 +1,4 @@
 <template>
-  <h1>This is component 1</h1>
   <Component2 />
 </template>
 

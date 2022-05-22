@@ -1,5 +1,4 @@
 <template>
-  <h1>This is component 3</h1>
   <Component4 />
   <History />
 </template>
